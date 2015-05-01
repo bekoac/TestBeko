@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:-1,[COLOR yellow]by tutorial-iptv-xbmc.blogspot.com[/COLOR]
+#EXTINF:-1,TV 2 HD
+http://212.224.109.115/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+#EXTINF:-1,KanalD HD
+http://212.224.80.71/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
+#EXTINF:-1,Dream TV
+http://212.224.80.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1,Dream Turk
+http://212.224.108.85/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1,NetD
+http://212.224.109.99/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
+#EXTINF:-1,Tay TV
+http://212.224.109.117/S1/HLS_LIVE/tay/1000/prog_index.m3u8
+#EXTINF:-1,Ulke HD
+rtmp://livede.gostream.nl/ulketvhq/ulketvhq
+#EXTINF:-1,Show TV
+http://85.111.14.54:1935/showtv/showtv2/chunklist.m3u8
+#EXTINF:-1,Kanal 7
+http://mobil.gostream.nl/kanal7iphone/_definst_/3kanal7iphone.sdp/chunklist.m3u8
+#EXTINF:-1,Kanal turk
+http://kanalturk.ercdn.net:1935/er/kanalturk3/chunklist.m3u8
+#EXTINF:-1,Kanal A
+http://nl-1-ms-origin.noccdn.com/cdn/53bf0e7156a37/chunklist.m3u8
+#EXTINF:-1,Haber Turk
+http://strm-i.glb.pr.medianova.tv:1935/haberturk/haberturk2/chunklist.m3u8
+#EXTINF:-1,TRT Cocuk
+http://si.trtcdn.com/tv/trtcocuk/smil:trtcocuk.smil/chunklist_w280774386_b665600.m3u8
+#EXTINF:-1,Aspor
+http://195.175.227.147:1935/aspor/aspor3/chunklist.m3u8
+#EXTINF:-1,Power Turk
+http://185.28.3.10/powertv/powerturktvh.stream/chunklist.m3u8
+#EXTINF:-1,TRT Music
+http://sol.trtcdn.com/tv/trtmuzik/smil:trtmuzik.smil/chunklist_w102610994_b665600.m3u8
+#EXTINF:-1,Virgin TV
+http://wow01.105.net/live/virgin1/chunklist.m3u8
